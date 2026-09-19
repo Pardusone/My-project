@@ -1,0 +1,6 @@
+{
+  "name": "CircuitPuzzle.Runtime",
+  "rootNamespace": "CircuitPuzzle",
+  "references": ["UnityEngine.UI", "Unity.InputSystem", "Unity.RenderPipelines.Universal.Runtime"],
+  "autoReferenced": true
+}

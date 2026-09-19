@@ -1,0 +1,7 @@
+{
+  "name": "CircuitPuzzle.Editor",
+  "rootNamespace": "CircuitPuzzle.Editor",
+  "references": ["CircuitPuzzle.Runtime", "UnityEngine.UI", "Unity.InputSystem", "Unity.RenderPipelines.Universal.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

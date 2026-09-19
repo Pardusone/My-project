@@ -1,3 +1,7 @@
 ﻿<Solution>
+  <Project Path="CircuitPuzzle.EditModeTests.csproj" />
+  <Project Path="CircuitPuzzle.Runtime.csproj" />
+  <Project Path="CircuitPuzzle.Editor.csproj" />
+  <Project Path="CircuitPuzzle.PlayModeTests.csproj" />
   <Project Path="Unity.2D.Welcome.csproj" />
 </Solution>

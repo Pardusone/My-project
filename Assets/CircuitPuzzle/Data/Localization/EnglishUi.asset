@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15ef42a43e3822548acdcbfc859d0d39, type: 3}
+  m_Name: EnglishUi
+  m_EditorClassIdentifier: Assembly-CSharp::CircuitPuzzle.UI.UiTextCatalog
+  entries:
+  - key: menu.title
+    value: Circuit Puzzle
+  - key: menu.description
+    value: Discover how circuits work, one connection at a time.
+  - key: menu.play
+    value: Play
+  - key: levels.title
+    value: Level Select
+  - key: levels.description
+    value: 'Your circuit journey will begin here.
+
+      Levels are coming soon.'
+  - key: levels.preview
+    value: Preview Workspace
+  - key: gameplay.title
+    value: Circuit Workspace
+  - key: gameplay.description
+    value: 'Your future workspace for exploring circuits.
+
+      Coming soon.'
+  - key: navigation.menu
+    value: Main Menu
+  - key: navigation.levels
+    value: Back to Levels
+  - key: editor.title
+    value: Circuit Editor
+  - key: editor.subtitle
+    value: Drag parts onto the grid. Drag between terminals to connect.
+  - key: editor.tray
+    value: COMPONENTS - Drag to place
+  - key: editor.undo
+    value: Undo
+  - key: editor.reset
+    value: Reset
+  - key: editor.rotate
+    value: Rotate
+  - key: editor.delete
+    value: Delete
+  - key: editor.ready
+    value: Choose a part from the tray.
+  - key: editor.selection.none
+    value: Nothing selected
+  - key: editor.selection.component
+    value: '{0} selected'
+  - key: editor.selection.wire
+    value: Wire selected
+  - key: editor.selection.terminal
+    value: '{0}: {1}'
+  - key: editor.placement.valid
+    value: OK - Release to place
+  - key: editor.placement.invalid
+    value: X - Outside board or overlapping a part
+  - key: editor.wire.ready
+    value: Drag to another terminal.
+  - key: editor.wire.valid
+    value: OK - Release to connect
+  - key: editor.wire.invalid
+    value: X - Choose a different, unconnected terminal pair
+  - key: editor.rotate.invalid
+    value: Cannot rotate here. Move the part away from the edge or other parts.
+  - key: editor.undo.done
+    value: Last edit undone.
+  - key: editor.reset.done
+    value: Board cleared. Undo history reset.
+  - key: editor.cancelled
+    value: Edit cancelled.
+  - key: editor.placed
+    value: Part placed.
+  - key: editor.moved
+    value: Part moved.
+  - key: editor.rotated
+    value: Part rotated.
+  - key: editor.deleted
+    value: Selection deleted.
+  - key: editor.connected
+    value: Wire connected.
+  - key: editor.nothing
+    value: No changes to undo.

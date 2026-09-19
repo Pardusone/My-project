@@ -1,0 +1,7 @@
+{
+    "name": "CircuitPuzzle.EditModeTests",
+    "rootNamespace": "CircuitPuzzle.Tests",
+    "references": ["CircuitPuzzle.Runtime"],
+    "includePlatforms": ["Editor"],
+    "optionalUnityReferences": ["TestAssemblies"]
+}

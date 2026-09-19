@@ -1,0 +1,6 @@
+{
+  "name": "CircuitPuzzle.PlayModeTests",
+  "rootNamespace": "CircuitPuzzle.Tests",
+  "references": ["CircuitPuzzle.Runtime", "Unity.InputSystem", "UnityEngine.UI"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
